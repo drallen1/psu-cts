@@ -57,7 +57,7 @@ width: auto;
 		background-image: none;
 		overflow-y: visible;
 		padding-top: 0;
-		font-size:75%;
+		font-size:60%;
 	}
   li{clear:left;}
   img { page-break-inside: avoid; display: none;}
